@@ -27,5 +27,5 @@ module.exports = {
 		phone: '',
 	},
 	foundingDate: '2019',
-	recaptcha_key: '6Lcs6lQUAAAAAEwhNH2IsobIe2csdda4TU3efpMN'
+	recaptcha_key: '6LemSb0UAAAAAJxrXb7mOew_YXsxrI-4wOj3y-Hu'
 }

@@ -1,8 +1,8 @@
 module.exports = {
 	defaultTitle: 'Jose Márquez',
-	logo: 'https://portfolio.xose.com/favicon/favicon-512.png',
+	logo: 'http://xoseportfolio.netlify.com/favicon/favicon-512.png',
 	author: 'Jose Márquez',
-	url: 'https://portfolio.xose.com',
+	url: 'http://xoseportfolio.netlify.com',
 	legalName: 'Jose Márquez',
 	defaultDescription: 'I’m Jose and I’m a Mobile & Backend engineer!',
 	socialLinks: {

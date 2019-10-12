@@ -15,7 +15,7 @@ export const Footer = () => (
 					</span>{' '}
 					by{' '}
 					<a
-						href="https://x0s3.com/?ref=portfolio-dev"
+						href="https://github.com/x0s3"
 						rel="noopener noreferrer"
 						target="_blank"
 					>

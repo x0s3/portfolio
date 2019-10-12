@@ -15,9 +15,9 @@ export const Projects = () => {
 	} = useStaticQuery(graphql`
 		{
 			github {
-				repositoryOwner(login: "smakosh") {
+				repositoryOwner(login: "x0s3") {
 					repositories(
-						first: 8
+						first: 7
 						orderBy: { field: STARGAZERS, direction: DESC }
 					) {
 						edges {
@@ -39,7 +39,7 @@ export const Projects = () => {
 	`)
 	return (
 		<Wrapper as={Container} id="projects">
-			<h2>Projects</h2>
+			<h2>Some of my OSS projects</h2>
 			<Grid>
 				{edges.map(({ node }) => (
 					<Item

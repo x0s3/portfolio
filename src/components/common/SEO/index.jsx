@@ -45,10 +45,7 @@ export const SEO = ({
 		},
 		"sameAs": [
 			"${socialLinks.twitter}",
-			"${socialLinks.google}",
-			"${socialLinks.youtube}",
 			"${socialLinks.linkedin}",
-			"${socialLinks.instagram}",
 			"${socialLinks.github}"
 		]
   	}`
@@ -58,7 +55,7 @@ export const SEO = ({
 			<meta name="description" content={description} />
 			<meta name="image" content={Thumbnail} />
 
-			<meta property="og:url" content={`${url}${location}/?ref=smakosh.com`} />
+			<meta property="og:url" content={`${url}${location}/?ref=xose.com`} />
 			<meta property="og:type" content="website" />
 			<meta property="og:title" content={title} />
 			<meta property="og:description" content={description} />

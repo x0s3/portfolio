@@ -8,13 +8,13 @@ export const Skills = () => (
 	<Wrapper id="about">
 		<SkillsWrapper as={Container}>
 			<Thumbnail>
-				<img src={dev} alt="I’m Jose and I’m a Mobile & Backend engineer!" />
+				<img src={dev} alt="I’m Jose and I’m a FullStack engineer!" />
 			</Thumbnail>
 			<Details>
 				<h1>About me (short version)</h1>
 				<p>
 					I'm a big fan of cross platform development, due to that, my main languages are TypeScript, Java and Golang.
-					<br /> Thanks to this stack I'm able to develop and cover all areas of a mobile app development.
+					<br /> Thanks to this stack I'm able to develop and cover all areas of an app development.
 				</p>
 				<p>
 					If you are interested in knowing more about me, I'll be glad to talk with you! :)

@@ -4,7 +4,7 @@ module.exports = {
 	author: 'Jose Márquez',
 	url: 'http://xoseportfolio.netlify.com',
 	legalName: 'Jose Márquez',
-	defaultDescription: 'I’m Jose and I’m a Mobile & Backend engineer!',
+	defaultDescription: 'I’m Jose and I’m a FullStack engineer!',
 	socialLinks: {
 		twitter: 'https://twitter.com/x0s3js',
 		github: 'https://github.com/x0s3',

@@ -11,13 +11,13 @@ export const Intro = () => (
 		<IntroWrapper as={Container}>
 			<Details>
 				<h1>Hi There!</h1>
-				<h4>I’m Jose and I’m a Mobile & Backend engineer!</h4>
+				<h4>I’m Jose and I’m a FullStack engineer!</h4>
 				<Button as={AnchorLink} href="#contact">
 					Contact me
 				</Button>
 			</Details>
 			<Thumbnail>
-				<img src={dev} alt="I’m Jose and I’m a Mobile & Backend engineer!" />
+				<img src={dev} alt="I’m Jose and I’m a FullStack engineer!" />
 			</Thumbnail>
 		</IntroWrapper>
 	</Wrapper>
